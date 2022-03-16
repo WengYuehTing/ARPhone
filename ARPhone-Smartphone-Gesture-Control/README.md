@@ -88,10 +88,4 @@ recv side：pass mediator patameter into string.split method to access actual va
 2,Move,$(x_offset),$(y_offset)  
 3,Move,$(x_offset),$(y_offset)  
 4,Move,$(x_offset),$(y_offset)  
-5,Move,$(x_offset),$(y_offset)  
-
-## Note  
-GestureHandler class provide the methods mentioned above, the MULTI_FINGER_OFFSET value depends on the devices.   
-
-## Environment  
-Work on Android Studio 3.5.2, JRE 1.8.0  
+5,Move,$(x_offset),$(y_offset)
